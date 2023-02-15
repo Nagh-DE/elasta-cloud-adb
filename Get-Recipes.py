@@ -16,7 +16,7 @@ Num_Days = int(dbutils.widgets.get("Num_Days"))
 
 # COMMAND ----------
 
-# MAGIC %run /Shared/Cognitive-Search
+# MAGIC %run ./Cognitive-Search
 
 # COMMAND ----------
 
